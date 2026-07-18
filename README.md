@@ -2,7 +2,7 @@
 
 Synthetic telematics → medallion pipelines → maintenance copilot, with Claude Code Skills, sub-agents, hooks, and MCP.
 
-> **Disclaimer:** All data in this repository is fictional. This is a portfolio project demonstrating patterns from a Senior AI Engineer (Data) role — not production railroad software.
+> **Disclaimer:** All data in this repository is synthetic, used for demonstration purposes.
 
 ## Problem statement
 
@@ -128,10 +128,6 @@ Full walkthrough: [docs/demo-walkthrough.md](docs/demo-walkthrough.md)
 3. Run maintenance copilot in mock mode for a faulting locomotive
 4. Use MCP `list_tables` / `sample_rows` on `gold.service_metrics`
 5. Show a Skill, sub-agent, and hook in `.claude/`
-
-## Built with Cursor, submitted for Claude Code
-
-I authored this repo in **Cursor**, but the submission artifact is **Claude Code-native** (`.claude/`, `.mcp.json`, `CLAUDE.md`). Skills follow the portable Agent Skills standard; hooks and settings use Claude Code's schema.
 
 ## What this would look like in production
 
