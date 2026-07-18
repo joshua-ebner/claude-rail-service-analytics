@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "telematics-catalog": {
+      "command": "python",
+      "args": ["-m", "catalog_mcp.telematics_catalog.server"],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "bulletin_id": "MB-2026-010",
+    "fault_code": "F012",
+    "title": "Cooling fan intermittent failure",
+    "severity": "high",
+    "recommended_action": "Reduce throttle; inspect fan relay at next stop",
+    "effective_date": "2026-03-01"
+  },
+  {
+    "bulletin_id": "MB-2026-011",
+    "fault_code": "F034",
+    "title": "Wheel bearing temperature elevated",
+    "severity": "medium",
+    "recommended_action": "Monitor bearing temps; schedule inspection within 48h",
+    "effective_date": "2026-02-15"
+  },
+  {
+    "bulletin_id": "MB-2026-012",
+    "fault_code": "F078",
+    "title": "GPS telemetry drift detected",
+    "severity": "low",
+    "recommended_action": "Verify antenna connection; recalibrate at next maintenance window",
+    "effective_date": "2026-01-20"
+  },
+  {
+    "bulletin_id": "MB-2026-013",
+    "fault_code": "F012",
+    "title": "Cooling system pressure variance",
+    "severity": "high",
+    "recommended_action": "Limit load to 80%; dispatch maintenance crew if pressure drops",
+    "effective_date": "2026-03-05"
+  },
+  {
+    "bulletin_id": "MB-2026-014",
+    "fault_code": "F034",
+    "title": "Axle vibration threshold exceeded",
+    "severity": "high",
+    "recommended_action": "Reduce speed to 40 mph; inspect axle bearings immediately",
+    "effective_date": "2026-02-28"
+  },
+  {
+    "bulletin_id": "MB-2026-015",
+    "fault_code": "F078",
+    "title": "Telematics unit firmware outdated",
+    "severity": "low",
+    "recommended_action": "Schedule firmware update at next yard stop",
+    "effective_date": "2026-02-01"
+  }
+]

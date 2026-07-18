@@ -1,0 +1,20 @@
+[
+  {
+    "locomotive_id": "LOC-4400",
+    "mock": true,
+    "expect_severity_in": ["high", "medium"],
+    "expect_action_contains": ["inspect", "Reduce", "maintenance", "Monitor", "relay"]
+  },
+  {
+    "locomotive_id": "LOC-4403",
+    "mock": true,
+    "expect_severity_in": ["low", "medium", "high"],
+    "expect_action_contains": ["antenna", "calibrate", "Verify", "monitor", "maintenance"]
+  },
+  {
+    "locomotive_id": "LOC-4404",
+    "mock": true,
+    "expect_severity_in": ["medium", "high"],
+    "expect_summary_contains": ["4404", "F034", "fault"]
+  }
+]
