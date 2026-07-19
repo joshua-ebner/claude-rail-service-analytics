@@ -1,6 +1,6 @@
 # Demo walkthrough
 
-A **5–10 minute script** for showing this repo to a recruiter, hiring manager, or technical interviewer. Assumes you have cloned the repo and activated the virtual environment.
+A **5–10 minute walkthrough** of the repo's domain layer and Claude Code architecture. Assumes you have cloned the repo and activated the virtual environment.
 
 ## Before you start
 
@@ -142,7 +142,7 @@ python evals/prompt_eval.py --mock
 
 Show `src/llm/schemas.py` — `OperatorRecommendation` Pydantic model.
 
-**Key point:** Mock mode works without API key so reviewers can clone and verify.
+**Key point:** Mock mode works without an API key — clone, run pipelines, and verify the copilot locally.
 
 ---
 

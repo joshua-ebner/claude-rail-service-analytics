@@ -2,7 +2,7 @@
 
 ## Project purpose
 
-Synthetic **rail Service Analytics** portfolio demo for a Senior AI Engineer (Data) role. All telematics and maintenance data is fictional.
+Claude Code portfolio project illustrating **rail Service Analytics** patterns: telematics medallion pipelines, a maintenance copilot, and Claude Code tooling. All telematics and maintenance data is synthetic.
 
 **Goal:** Turn locomotive telematics into operator decisions via medallion pipelines and a maintenance copilot, accelerated by Claude Code tooling.
 

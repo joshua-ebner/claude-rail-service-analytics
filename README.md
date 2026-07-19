@@ -144,7 +144,7 @@ On a real Databricks/Azure stack for Service Analytics:
 - No real Databricks, Azure, or telematics feed connections
 - RAG is JSON + fault-code matching, not embeddings
 - MCP reads local files only
-- Eval golden set is small (3 cases) by design — quality over volume per the job posting guidance
+- Eval golden set is small (3 cases) by design — focused examples rather than exhaustive coverage
 
 ## License
 

@@ -89,7 +89,7 @@ flowchart TB
 
 ## When to use what
 
-Use this table to choose the right extension — the job posting cares that you understand the distinction, not that you maximize count.
+Use this table to choose the right extension — clarity of purpose matters more than maximizing the number of Skills or agents.
 
 | Primitive | Use when | Do not use when |
 |-----------|----------|-----------------|
@@ -164,7 +164,7 @@ The copilot returns structured output (`OperatorRecommendation` in `src/llm/sche
 
 - `severity`, `summary`, `recommended_action`, `confidence`
 
-Mock mode produces deterministic output for reviewers without an API key.
+Mock mode produces deterministic output without an API key, so the repo runs end-to-end after clone.
 
 ## Eval harness
 

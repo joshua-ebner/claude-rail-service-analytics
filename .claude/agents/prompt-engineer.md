@@ -17,7 +17,7 @@ When invoked:
 Review checklist:
 
 - Pydantic schema matches business needs (severity, action, confidence)
-- Mock mode works without API key for CI/reviewers
+- Mock mode works without API key for CI and local development
 - Golden set cases are deterministic in mock mode
 - Tool `lookup_locomotive_history` reduces hallucination risk
 - Live prompt requests JSON matching the schema
